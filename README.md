@@ -1,4 +1,4 @@
-# WordPress Plugin and Theme Composer
+# WordPress Composer Standards
 A PHP standard project that makes PHP libraries compatible with WordPress Plugins and Themes. 
 
 Every plugin has its own libraries. Sometimes, certain libraries can cause conflicts when used by plugins. This library solves this problem systematically with a PHP standart and a PHP Code compiler.
